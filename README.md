@@ -7,6 +7,11 @@ Some healing essences may be missing, to be added on the future
 
 To install, first download Grid2 addon from https://www.curseforge.com/wow/addons/grid2.
 
+Also requires the following plugins:
+
+https://www.curseforge.com/wow/addons/grid2statusabsorbs
+https://www.curseforge.com/wow/addons/grid2statusphasing
+
 Then, open World of Warcraft Game, load up your character, and type in /grid2 on chat to open addon config menu. Navigate to General,
 Profiles, Import&Export, and click Import profile, paste the string and click Accept. After that, you can load this same profile on every
 character on the Profile Menu.
